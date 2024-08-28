@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Felipe Gonçalves
 
-- 🌱 Estudando HTML5, CSS3, JAVASCRIPT, PHP
-
 <div align="center">
   <a href="https://github.com/felipevalentegoncalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipevalentegoncalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
